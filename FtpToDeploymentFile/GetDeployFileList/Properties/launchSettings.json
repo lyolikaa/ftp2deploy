@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GetDeployFileList": {
+      "commandName": "Project",
+      "commandLineArgs": "Deployment.xml WebServer"
+    }
+  }
+}

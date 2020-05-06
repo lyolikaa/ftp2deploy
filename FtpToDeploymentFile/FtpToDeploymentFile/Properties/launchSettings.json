@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FtpToDeploymentFile": {
+      "commandName": "Project",
+      "commandLineArgs": "ftpsrv1.csv Deployment.xml"
+    }
+  }
+}
